@@ -1,0 +1,9 @@
+airportId,name,icaoCode,state,latitude,longitude,elevation
+AP001,Delhi Airport,VIDP,Delhi,28.5562,77.1000,237
+AP002,Mumbai Airport,VABB,Maharashtra,19.0896,72.8656,11
+AP003,Bengaluru Airport,VOBL,Karnataka,13.1986,77.7066,915
+AP004,Chennai Airport,VOMM,Tamil Nadu,12.9941,80.1709,16
+AP005,Kolkata Airport,VECC,West Bengal,22.6547,88.4467,5
+AP006,Hyderabad Airport,VOHS,Telangana,17.2403,78.4294,617
+AP007,Ahmedabad Airport,VAAH,Gujarat,23.0770,72.6347,58
+AP008,Lucknow Airport,VILK,Uttar Pradesh,26.7606,80.8893,123

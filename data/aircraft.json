@@ -1,0 +1,10 @@
+[
+  {"aircraftId":"AC001","registration":"VT-SMA","model":"Airbus A320","category":"NARROW_BODY","cruiseSpeed":230,"serviceCeiling":39000,"capacity":180},
+  {"aircraftId":"AC002","registration":"VT-SMB","model":"Boeing 737-800","category":"NARROW_BODY","cruiseSpeed":235,"serviceCeiling":41000,"capacity":189},
+  {"aircraftId":"AC003","registration":"VT-SMC","model":"Airbus A321","category":"NARROW_BODY","cruiseSpeed":240,"serviceCeiling":39000,"capacity":220},
+  {"aircraftId":"AC004","registration":"VT-SMD","model":"Boeing 787-8","category":"WIDE_BODY","cruiseSpeed":250,"serviceCeiling":43000,"capacity":242},
+  {"aircraftId":"AC005","registration":"VT-SME","model":"Airbus A320neo","category":"NARROW_BODY","cruiseSpeed":235,"serviceCeiling":39000,"capacity":186},
+  {"aircraftId":"AC006","registration":"VT-SMF","model":"ATR 72-600","category":"REGIONAL","cruiseSpeed":140,"serviceCeiling":25000,"capacity":78},
+  {"aircraftId":"AC007","registration":"VT-SMG","model":"Boeing 777-300ER","category":"WIDE_BODY","cruiseSpeed":255,"serviceCeiling":43000,"capacity":350},
+  {"aircraftId":"AC008","registration":"VT-SMH","model":"Airbus A350-900","category":"WIDE_BODY","cruiseSpeed":250,"serviceCeiling":43000,"capacity":300}
+]

@@ -1,0 +1,57 @@
+[
+{
+"weatherZoneId": "WZ001",
+"latitude": 28.5,
+"longitude": 77.1,
+"radius": 60,
+"severity": "moderate",
+"weatherType": "RAIN",
+"minAltitude": 0,
+"maxAltitude": 30000,
+"active": true
+},
+{
+"weatherZoneId": "WZ002",
+"latitude": 19.1,
+"longitude": 72.9,
+"radius": 50,
+"severity": "high",
+"weatherType": "THUNDERSTORM",
+"minAltitude": 5000,
+"maxAltitude": 35000,
+"active": true
+},
+{
+"weatherZoneId": "WZ003",
+"latitude": 13.2,
+"longitude": 77.7,
+"radius": 55,
+"severity": "moderate",
+"weatherType": "RAIN",
+"minAltitude": 0,
+"maxAltitude": 25000,
+"active": true
+},
+{
+"weatherZoneId": "WZ004",
+"latitude": 22.6,
+"longitude": 88.4,
+"radius": 70,
+"severity": "severe",
+"weatherType": "THUNDERSTORM",
+"minAltitude": 5000,
+"maxAltitude": 40000,
+"active": true
+},
+{
+"weatherZoneId": "WZ005",
+"latitude": 17.2,
+"longitude": 78.4,
+"radius": 50,
+"severity": "low",
+"weatherType": "CLOUDY",
+"minAltitude": 0,
+"maxAltitude": 20000,
+"active": true
+}
+]

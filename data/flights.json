@@ -1,0 +1,98 @@
+[
+{
+"flightId": "FL001",
+"callsign": "AIC101",
+"aircraftId": "AC001",
+"departureAirport": "VIDP",
+"arrivalAirport": "VABB",
+"route": ["WP001", "WP002", "WP003", "WP004"],
+"departureTime": "2026-11-18T05:00:00Z",
+"cruiseAltitude": 30000,
+"status": "SCHEDULED",
+"priority": "NORMAL"
+},
+{
+"flightId": "FL002",
+"callsign": "IND202",
+"aircraftId": "AC002",
+"departureAirport": "VABB",
+"arrivalAirport": "VOBL",
+"route": ["WP004", "WP005", "WP006"],
+"departureTime": "2026-11-18T05:15:00Z",
+"cruiseAltitude": 35000,
+"status": "SCHEDULED",
+"priority": "HIGH"
+},
+{
+"flightId": "FL003",
+"callsign": "AIC303",
+"aircraftId": "AC003",
+"departureAirport": "VOBL",
+"arrivalAirport": "VOMM",
+"route": ["WP006", "WP007"],
+"departureTime": "2026-11-18T05:30:00Z",
+"cruiseAltitude": 28000,
+"status": "SCHEDULED",
+"priority": "NORMAL"
+},
+{
+"flightId": "FL004",
+"callsign": "IGO404",
+"aircraftId": "AC004",
+"departureAirport": "VIDP",
+"arrivalAirport": "VECC",
+"route": ["WP001", "WP011", "WP012"],
+"departureTime": "2026-11-18T05:45:00Z",
+"cruiseAltitude": 39000,
+"status": "SCHEDULED",
+"priority": "HIGH"
+},
+{
+"flightId": "FL005",
+"callsign": "AIC505",
+"aircraftId": "AC005",
+"departureAirport": "VOHS",
+"arrivalAirport": "VABB",
+"route": ["WP008", "WP009", "WP004"],
+"departureTime": "2026-11-18T06:00:00Z",
+"cruiseAltitude": 32000,
+"status": "SCHEDULED",
+"priority": "NORMAL"
+},
+{
+"flightId": "FL006",
+"callsign": "IGO606",
+"aircraftId": "AC006",
+"departureAirport": "VOMM",
+"arrivalAirport": "VOBL",
+"route": ["WP007", "WP006"],
+"departureTime": "2026-11-18T06:15:00Z",
+"cruiseAltitude": 22000,
+"status": "SCHEDULED",
+"priority": "LOW"
+},
+{
+"flightId": "FL007",
+"callsign": "AIC707",
+"aircraftId": "AC007",
+"departureAirport": "VECC",
+"arrivalAirport": "VIDP",
+"route": ["WP012", "WP011", "WP001"],
+"departureTime": "2026-11-18T06:30:00Z",
+"cruiseAltitude": 37000,
+"status": "SCHEDULED",
+"priority": "NORMAL"
+},
+{
+"flightId": "FL008",
+"callsign": "IGO808",
+"aircraftId": "AC008",
+"departureAirport": "VAAH",
+"arrivalAirport": "VIDP",
+"route": ["WP003", "WP002", "WP001"],
+"departureTime": "2026-11-18T06:45:00Z",
+"cruiseAltitude": 35000,
+"status": "SCHEDULED",
+"priority": "HIGH"
+}
+]

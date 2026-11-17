@@ -1,0 +1,46 @@
+[
+{
+"zoneId": "RZ001",
+"zoneName": "Restricted Zone North",
+"latitude": 28.8,
+"longitude": 77.5,
+"radius": 30,
+"minAltitude": 0,
+"maxAltitude": 45000,
+"restrictionType": "MILITARY",
+"active": true
+},
+{
+"zoneId": "RZ002",
+"zoneName": "Restricted Zone West",
+"latitude": 19.5,
+"longitude": 73.5,
+"radius": 25,
+"minAltitude": 10000,
+"maxAltitude": 40000,
+"restrictionType": "RESTRICTED",
+"active": true
+},
+{
+"zoneId": "RZ003",
+"zoneName": "Restricted Zone South",
+"latitude": 14.0,
+"longitude": 78.0,
+"radius": 35,
+"minAltitude": 0,
+"maxAltitude": 45000,
+"restrictionType": "MILITARY",
+"active": true
+},
+{
+"zoneId": "RZ004",
+"zoneName": "Restricted Zone East",
+"latitude": 23.0,
+"longitude": 87.5,
+"radius": 30,
+"minAltitude": 15000,
+"maxAltitude": 45000,
+"restrictionType": "RESTRICTED",
+"active": true
+}
+]
